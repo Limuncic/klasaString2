@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\kalsaString2\bin\Debug\kalsaString2.exe.config
+C:\Users\ucenik\source\repos\kalsaString2\bin\Debug\kalsaString2.exe
+C:\Users\ucenik\source\repos\kalsaString2\bin\Debug\kalsaString2.pdb
+C:\Users\ucenik\source\repos\kalsaString2\obj\Debug\kalsaString2.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\kalsaString2\obj\Debug\kalsaString2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\kalsaString2\obj\Debug\kalsaString2.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\kalsaString2\obj\Debug\kalsaString2.exe
+C:\Users\ucenik\source\repos\kalsaString2\obj\Debug\kalsaString2.pdb
